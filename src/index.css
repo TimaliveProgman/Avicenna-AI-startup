@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+input{
+    outline: none;
+}
+.colored-image{
+   margin-top: 50px;
+    width: 170px;
+    filter: grayscale(1) brightness(1000%);
+}
+body{
+    font-family: sans-serif;
+    fontFamily: 'Montserrat, sans-serif',
+}
