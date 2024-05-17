@@ -4,3 +4,9 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
+.secondPage{
+    background-image: url('../../assets/stomatolog.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
