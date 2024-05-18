@@ -10,3 +10,8 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
+.bg-wrapper{
+    width: 100%;
+    height: 650px;
+    background-image: url('../../assets/bg.svg');
+}
